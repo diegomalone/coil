@@ -1,4 +1,4 @@
-# Contributin g
+# Contributing
 
 In an effort to keep the library small and stable, please keep contributions limited to bug fixes, documentation improvements, and test improvements.
 
